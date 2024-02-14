@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Yoshimi Maria Kato"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Writing with interest in multilingual and interdisciplinary arts and culture."
+  location         : "Oxford, United Kingdom"
+  email            : yoshimi.kato@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
